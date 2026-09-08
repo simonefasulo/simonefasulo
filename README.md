@@ -1,16 +1,15 @@
-## Hi there 👋
+### Ciao, sono Simone 👋
 
-<!--
-**simonefasulo/simonefasulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sviluppatore web e consulente informatico con oltre 10 anni di esperienza nella 
+progettazione, realizzazione e manutenzione di applicazioni web e soluzioni digitali 
+personalizzate — dall'analisi dei requisiti fino alla messa in produzione.
 
-Here are some ideas to get you started:
+**Stack principale**
+- Backend: PHP, Laravel, WordPress
+- Frontend: JavaScript, TypeScript, React, Vue.js, AngularJS
+- Database: MySQL, PostgreSQL
+- Altro: Git, ambienti Linux/hosting, integrazione API, sviluppo iOS (Swift)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cosa faccio**
+Sviluppo web app su misura, dashboard, integrazioni API, e-commerce e siti per 
+piccole/medie attività. Disponibile per progetti freelance.
