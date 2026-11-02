@@ -1,15 +1,15 @@
-### Ciao, sono Simone 👋
+### Hi, I'm Simone 👋
 
-Sviluppatore web e consulente informatico con oltre 10 anni di esperienza nella 
-progettazione, realizzazione e manutenzione di applicazioni web e soluzioni digitali 
-personalizzate — dall'analisi dei requisiti fino alla messa in produzione.
+Web developer and IT consultant with 10+ years of experience designing, building
+and maintaining web applications and custom digital solutions — from requirements
+analysis all the way to production.
 
-**Stack principale**
+**Main stack**
 - Backend: PHP, Laravel, WordPress
 - Frontend: JavaScript, TypeScript, React, Vue.js, AngularJS
-- Database: MySQL, PostgreSQL
-- Altro: Git, ambienti Linux/hosting, integrazione API, sviluppo iOS (Swift)
+- Databases: MySQL, PostgreSQL
+- Other: Git, Linux/hosting environments, API integrations, iOS development (Swift)
 
-**Cosa faccio**
-Sviluppo web app su misura, dashboard, integrazioni API, e-commerce e siti per 
-piccole/medie attività. Disponibile per progetti freelance.
+**What I do**
+I build custom web apps, dashboards, API integrations, e-commerce platforms and
+websites for small and medium-sized businesses. Available for freelance projects.
